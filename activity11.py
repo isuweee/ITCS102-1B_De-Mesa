@@ -16,5 +16,5 @@ elif temp <= 60:
     print("Temperature is Extremely Hot")
 else:
     print("Temperature is Burning")
-    
+     
 # I didn't use 'and' function because this is already functional :>
